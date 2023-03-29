@@ -29,5 +29,5 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: camilovivas/myappdevops:latest
+          tags: camilo2000/myappdevops:latest
       
